@@ -17,7 +17,8 @@ nav {
 	display: grid; 
     grid-column: 1 / 13 ; grid-row: 1 / 2 ; align-items: center; 
     
-	 background-color: #52D900;
+	background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(23,255,0,1) 0%, rgba(0,255,235,1) 100%);
 	 
 	
 }
