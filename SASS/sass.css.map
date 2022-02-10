@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "mappings": "AGAA,AAAA,EAAE,CAAC;EACC,KAAK,EFDQ,OAAO;CEEvB;;AAED,AAAA,GAAG,CAAC;EACH,OAAO,EAAE,IAAI;EACV,WAAW,EAAE,MAAO;EAAE,QAAQ,EAAE,KAAM;EAAE,WAAW,EAAE,MAAM;EAE9D,UAAU,EAAE,OAAW;EACxB,UAAU,EAAE,4DAAuF;CAIlG",
+    "sources": [
+        "sass.scss",
+        "Variantes/_colores.scss",
+        "Variantes/_tipografias.scss",
+        "root/_root.scss"
+    ],
+    "names": [],
+    "file": "sass.css"
+}

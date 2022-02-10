@@ -1,0 +1,14 @@
+h1 {
+    color: $color-primario;
+}
+
+nav {
+	display: grid; 
+    grid-column: 1 / 13 ; grid-row: 1 / 2 ; align-items: center; 
+    
+	background: rgb(2,0,36);
+background: linear-gradient(90deg, $color-terciario 0%, $color-primario 0%, $color-secundario 100%);
+
+	 
+	
+}
