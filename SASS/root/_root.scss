@@ -12,3 +12,14 @@ background: linear-gradient(90deg, $color-terciario 0%, $color-primario 0%, $col
 	 
 	
 }
+
+.boton-base {
+    @include rectangulo(150px, 50px, 5px);
+    margin: 5px 10px;
+    border: solid 1px; 
+    padding: 10px 20px;
+    
+
+}
+
+

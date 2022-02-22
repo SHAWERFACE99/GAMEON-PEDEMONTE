@@ -1,0 +1,24 @@
+{
+  "name": "gameon-pedemonte",
+  "version": "1.0.0",
+  "description": "página web para el canal de gameON",
+  "main": "index.html",
+  "dependencies": {
+    "node-sass": "^7.0.1",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SHAWERFACE99/GAMEON-PEDEMONTE.git"
+  },
+  "author": "Tomás Pedemonte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SHAWERFACE99/GAMEON-PEDEMONTE/issues"
+  },
+  "homepage": "https://github.com/SHAWERFACE99/GAMEON-PEDEMONTE#readme"
+}

@@ -1,0 +1,10 @@
+@mixin rectangulo($ancho, $alto, $radio){
+
+    width: $ancho;
+    height: $alto;
+    @if $radio != 0 {
+     border-radius: $radio ;
+        
+    }
+}
+

@@ -1,0 +1,25 @@
+.boton-principal {
+    @extend .boton-base;
+    border-color: $color-primario;
+    background-color: $color-cuarto;
+    color: $color-sexto;
+    transition: 1000ms;
+    &:hover {
+        background-color: $color-secundario;
+        transition: 1000ms;
+
+    }
+}
+
+.boton-secundario {
+    @extend .boton-base;
+    border-color: $color-secundario;
+    background-color: $color-secundario;
+    color: $color-sexto;
+    transition: 1000ms;
+    &:hover {
+        background-color: $color-primario;
+        transition: 1000ms;
+    }
+
+}
