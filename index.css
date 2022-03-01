@@ -166,14 +166,6 @@ footer div {
 	padding-right: 40px;
 }
 
-
-
-
-
-
-
-
-
 @media screen and (max-width: 640px) { 
 	.lista-desordenada li a{
 		font-size: 14px	;
@@ -200,7 +192,6 @@ footer div {
 		font-size: 20px;
 	}	
 }
-
 
 @media (min-width: 641px) and (max-width: 1000px){ 
 	.lista-desordenada li a{
@@ -229,13 +220,11 @@ footer div {
 	}
 }
 
-
 @media (min-width: 992px) { 
 
  }
 
 
 @media (min-width: 1200px) { ... }
-
 
 @media (min-width: 1400px) { ... }

@@ -148,6 +148,7 @@ footer ul {
   transition: 0.2s;
 }
 
+/* start contacto */
 .section_contacto {
   width: 900px;
   margin: auto;
@@ -201,7 +202,8 @@ footer ul {
   width: 30%;
 }
 
-/* faq */
+/* end contacto */
+/* start faq */
 .section_faq {
   width: 900px;
   margin: auto auto 100px auto;
@@ -211,6 +213,8 @@ footer ul {
   font-size: 50px;
 }
 
+/*end faq */
+/* start sponsor */
 .section_sponsor {
   text-align: Center;
 }
@@ -223,6 +227,7 @@ footer ul {
   width: 400px;
 }
 
+/* end sponsor */
 .page_title {
   font-size: 50px;
 }
@@ -250,17 +255,6 @@ iframe {
   margin: 20px 20px 50px 20px;
 }
 
-/*.grid_container {
-	display:grid; grid-template-columns: repeat(12, 1fr); grid-template-rows: 150px auto 150px; 
-}
-.faq {
-	grid-column: 2 / 3;
-}
-footer div {
-	display: grid;
-	align-items: center;
-}
-*/
 footer div {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -334,5 +328,11 @@ footer div {
   .lista-desordenada .faq, footer ul .faq {
     font-size: 40px;
   }
+}
+
+.twitter-timeline {
+  width: 300px !important;
+  margin: auto;
+  height: 480px !important;
 }
 /*# sourceMappingURL=sass.css.map */
